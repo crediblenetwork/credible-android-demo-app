@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartPesa Credible</string>
+    <string name="title_view_data">View my data</string>
+    <string name="title_add_data">Add data</string>
+    <string name="title_verify_data">Verify my data</string>
+    <string name="title_export_key">Export key</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">	#00B49E</color>
+    <color name="colorPrimaryDark">#038979</color>
+    <color name="colorAccent">#BBDDAA</color>
+
+    <color name="blur_bg">#86ffffff</color>
+    <color name="faded_blur">#6dffffff</color>
+    <color name="md_grey_800">#424242</color>
+</resources>
